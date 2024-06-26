@@ -38,16 +38,16 @@ excerpt_separator: <!-- more -->
 footer-links:
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<username>
-  dribbble:
-  zhihu: 
+  dribbble:index
+  zhihu: index
   email: zhengjiaheng2001@126.com
-  facebook:
-  flickr:
+  facebook: index
+  flickr: index
   github: JohonZheng 
   googleplus: # anything in your profile username that comes after plus.google.com/
-  instagram:
-  linkedin:
-  pinterest:
+  instagram: index
+  linkedin: index
+  pinterest: index
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
@@ -55,7 +55,7 @@ footer-links:
   youtube:
 
 # Text under the icons in footer
-footer-text: Copyright (c) 2022
+footer-text: Copyright (c) 2023
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
