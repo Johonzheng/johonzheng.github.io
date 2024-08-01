@@ -15,7 +15,9 @@ author: JohonZheng
 ---
 ## 荐书
 **《宽容与自由》-胡适 **
-下载路径：resource/宽容与自由 胡适语录 (许海峰选编) (Z-Library).pdf
+
+下载路径：[下载](https://github.com/Johonzheng/johonzheng.github.io/tree/ec0b9e1f1a29eab2caee99cd474312df26625b6c/resource)
+
 里面有一章内容非常适合初入社会的年轻人，下面我把主要内容分享给每一位迷茫的年轻人（个人总结，较为片面）：
 
 年轻人初踏入社会，发现理想和现实差距甚远，事情比想的还有不堪，这时应该怎么办，是选择堕落、任命、弃兵曳甲还是选择采取措施来对抗，胡适先生给出了答案。
