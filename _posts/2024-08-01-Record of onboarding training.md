@@ -16,7 +16,7 @@ author: JohonZheng
 ## 荐书
 **《宽容与自由》-胡适 **
 
-下载路径：[下载](https://github.com/Johonzheng/johonzheng.github.io/tree/ec0b9e1f1a29eab2caee99cd474312df26625b6c/resource)
+下载路径：[图书下载](https://github.com/Johonzheng/johonzheng.github.io/tree/ec0b9e1f1a29eab2caee99cd474312df26625b6c/resource)
 
 里面有一章内容非常适合初入社会的年轻人，下面我把主要内容分享给每一位迷茫的年轻人（个人总结，较为片面）：
 
